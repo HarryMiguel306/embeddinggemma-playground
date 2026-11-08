@@ -155,13 +155,12 @@ Vêtements & mode, Chaussures & accessoires, Beauté & soins, Bijoux & artisanat
 - Le modèle d'embedding actuel (`all-MiniLM-L6-v2`) est texte uniquement. La recherche par image est acceptée par l'API mais n'utilise pas encore l'image (modèle multimodal à intégrer : EmbeddingGemma 2).
 - Certaines recherches peuvent retourner des résultats approximatifs en raison de la nature synthétique des descriptions et de la troncature à 256 dimensions.
 
-## Évaluation
+## Évaluation (à venir)
 
-Un jeu de requêtes représentatif permet de mesurer :
-- Precision@K
-- Recall@K
-- Mean Reciprocal Rank (MRR)
-- nDCG@K
+Cette phase n'est pas encore implémentée dans le prototype actuel. Elle consistera à :
+- Constituer un jeu de requêtes représentatif (français standard, formulations locales, recherche par image)
+- Définir les produits pertinents pour chaque requête
+- Mesurer la qualité du classement avec Precision@K, Recall@K, MRR et nDCG@K
 
 ## Licence
 
