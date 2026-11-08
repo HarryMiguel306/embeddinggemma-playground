@@ -1,0 +1,65 @@
+# ========== Python ==========
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+lib/
+lib64/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.pyc
+*.pyo
+
+# ========== Environnements virtuels ==========
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ========== Django ==========
+db.sqlite3
+media/
+static/
+*.log
+
+# ========== Node / Frontend ==========
+node_modules/
+.next/
+out/
+dist/
+build/
+*.pnp*
+.pnp.js
+.yarn-integrity
+
+# ========== IDE ==========
+.vscode/
+.idea/
+.DS_Store
+
+# ========== Notebooks ==========
+.ipynb_checkpoints
+
+# ========== Elasticsearch / Docker ==========
+esdata/
+
+# ========== Divers ==========
+.env.local
+.env.production
+*.tmp
+.tmp_rename_marker.txt

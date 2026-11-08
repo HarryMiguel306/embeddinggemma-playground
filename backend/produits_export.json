@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "9494fe55-1bf6-4f47-b099-fdd6cc30d400",
+    "name": "Baume Corporel Nourrissant au Cacao de San-Pédro",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "fe4e8955-f818-444e-bab9-57f3e1b6139d",
+    "name": "Savon Noir Liquide Purifiant à la Citronnelle de Korhogo",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "4b7f5455-6536-42a2-9dcc-1071449f0d03",
+    "name": "Sérum Éclat Visage au Kinkeliba et Huile de Moringa",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "9316b287-4763-4877-948c-facfb77f14bc",
+    "name": "Chemise Col Officier en Kanvo Tissé Main",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "22fbce15-97f0-45a3-9f71-f0650188acc6",
+    "name": "Gari Sohoui Doré Artisanal de Savalou - 1 kg",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "e0214445-b5e0-4acc-90e3-06ceebe71c0d",
+    "name": "Robe Portefeuille en Coton Teint Batik de Ouidah",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "9a44333c-8acf-43fd-b8d4-2051c37d741f",
+    "name": "Pain Dermatologique Exfoliant au Bois de Cam et Karité",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "61ac7904-75c4-4341-bfd5-37d2c1723ee2",
+    "name": "Batterie Externe Solaire Renforcée 20 000 mAh SahelCharge",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "7c3d8836-251c-4349-b361-11933cec68c9",
+    "name": "Pétales d'Ananas Pain de Sucre Séchés d'Allada - 150 g",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "ebb4f8a0-66f9-4374-92ae-a57e96b84eee",
+    "name": "Veste Kimono Unisexe avec Broderies Royales d'Abomey",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "bd54628b-6d79-4401-9f16-080c305f0646",
+    "name": "Ensemble Tunique et Pantalon en Lin Brodé Teranga",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "321783bb-3cef-4905-962f-5d1d2ef63686",
+    "name": "Collier Plastron en Perles de Verre et Laiton de Kloto",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "6a31298e-5bb1-480c-833c-5d2171d05340",
+    "name": "Mules en Cuir Végétal Artisanal de Ngaye Mékhé",
+    "category": "Chaussures & accessoires",
+    "country_code": "SN"
+  },
+  {
+    "id": "d203ef7f-f5ab-436d-a5d4-5c988baa0f81",
+    "name": "Élixir Capillaire Fortifiant au Beurre de Mangue Sauvage",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "821516f3-976b-4433-b75a-a4b38a8ced20",
+    "name": "Carnet de Reliure Artisanale en Papier Vélin Recyclé",
+    "category": "Livres & papeterie",
+    "country_code": "FR"
+  },
+  {
+    "id": "e30a9e46-88d7-434a-b602-6940b6da02c3",
+    "name": "Régulateur Protecteur de Tension Domestique VoltShield",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "9781fd6a-27f0-4ff6-b11e-a3d4ba31a67f",
+    "name": "Plateau Décoratif Rond en Fibres Végétales d'Adjarra",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "632bf184-df91-46cb-942e-00dd54a9c5c1",
+    "name": "Miel Brut Polyfloral des Mangroves de Grand-Popo - 500 g",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "a910cc84-7d1c-4829-9aa0-25422dd14afd",
+    "name": "Sac Besace Bandoulière en Toile Bogolan et Cuir de Zébu",
+    "category": "Chaussures & accessoires",
+    "country_code": "ML"
+  },
+  {
+    "id": "8ced840e-06c0-4157-8220-c0f0b2232475",
+    "name": "Baume Réparateur Intense à l'Huile de Palmiste Noire Manyanga",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "91353805-50db-4237-89c0-abea76b500d5",
+    "name": "Kaolack Beauté - léger sport & loisirs acier (Sénégal) #1",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "5741b236-ac29-4a45-9bce-f50e0a147459",
+    "name": "Dakar Chic - élégante vêtements & mode wax (Sénégal) #2",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "f707a0de-340e-4562-8e0e-8803ad407117",
+    "name": "Kaolack Beauté - cuir chaussures & accessoires similicuir (Sénégal) #3",
+    "category": "Chaussures & accessoires",
+    "country_code": "SN"
+  },
+  {
+    "id": "87f198dc-4f47-41a8-822e-e946f9ec48c5",
+    "name": "Sokodé Déco - tendance vêtements & mode soie (Togo) #4",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "24bda50e-6fa4-4e25-a45d-15d595a8a70b",
+    "name": "Kaolack Beauté - traditionnelle vêtements & mode denim (Sénégal) #5",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "5423ebca-6d25-43ac-85b9-a2b661af2c31",
+    "name": "Tamale Création - artisanale maison & décoration textile (Ghana) #6",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "4ed24c65-9cd9-4dc8-81b1-5cd8e5e4a9b5",
+    "name": "Kumasi Art - moderne maison & décoration bois (Ghana) #7",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "26b4b497-ee9c-4aa3-a99d-8f765b562567",
+    "name": "Grand-Bassam Art - intelligent électronique & gadgets aluminium (Côte d'Ivoire) #8",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "f8445ff7-92e8-40f3-bd98-d4372830ab0c",
+    "name": "Yamoussoukro Déco - intelligent électronique & gadgets aluminium (Côte d'Ivoire) #9",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "cf07fbf2-e4a1-498e-ae42-cdb0529dc20b",
+    "name": "San Pedro Beauté - intelligent électronique & gadgets métal (Côte d'Ivoire) #10",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "f148820c-be16-4271-90d7-f0ecb0559d44",
+    "name": "Cotonou Mode - résistant chaussures & accessoires tissu (Bénin) #11",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "a0edb8b1-2744-400f-8b9e-7ebe1816d1fa",
+    "name": "Abidjan Design - performant électronique & gadgets métal (Côte d'Ivoire) #12",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "9a902c27-f903-4acd-a42f-2e1b80212da2",
+    "name": "Kano Artisanat - compact électronique & gadgets métal (Nigeria) #13",
+    "category": "Électronique & gadgets",
+    "country_code": "NG"
+  },
+  {
+    "id": "52d56cf6-b36f-4d15-b802-84a39b864520",
+    "name": "Bamako Mode - résistant chaussures & accessoires caoutchouc (Mali) #14",
+    "category": "Chaussures & accessoires",
+    "country_code": "ML"
+  },
+  {
+    "id": "88b714cb-8134-4a4a-9d41-14e127346ab1",
+    "name": "Bamenda Art - chaleureuse maison & décoration métal (Cameroun) #15",
+    "category": "Maison & décoration",
+    "country_code": "CM"
+  },
+  {
+    "id": "1da0c1b5-593d-46a4-a814-64fa57401578",
+    "name": "Porto-Novo Style - cuir chaussures & accessoires tissu (Bénin) #16",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "8c81334b-09cf-44d4-9c33-75cf4dba9a60",
+    "name": "Accra Mode - rustique maison & décoration bois (Ghana) #17",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "053fb4ea-87e1-4586-9788-8f2657546e9a",
+    "name": "Atakpamé Mode - tendance vêtements & mode denim (Togo) #18",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "215eb5ce-9905-466a-b389-9c1786960941",
+    "name": "Kumasi Art - déco maison & décoration rotin (Ghana) #19",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "a20d3bdd-6479-442e-9c13-e9b6387a2b71",
+    "name": "Sokodé Déco - unique bijoux & artisanat bois (Togo) #20",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "6e20d300-b97e-4403-9c55-6696c8fe8e68",
+    "name": "Yamoussoukro Déco - tissé chaussures & accessoires similicuir (Côte d'Ivoire) #21",
+    "category": "Chaussures & accessoires",
+    "country_code": "CI"
+  },
+  {
+    "id": "f11493e4-314f-4fda-a993-870ee299501a",
+    "name": "Porto-Novo Style - élégante vêtements & mode coton (Bénin) #22",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "b86f13ba-b778-4202-b1ff-85a076fe17e0",
+    "name": "Kumasi Art - chaleureuse maison & décoration rotin (Ghana) #23",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "8ef38c9e-2ee8-4204-8079-bd456030ae35",
+    "name": "Kano Artisanat - naturel beauté & soins hibiscus (Nigeria) #24",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "25deb12b-8bdf-420d-8863-62f7d9ebe9a7",
+    "name": "Tahoua Déco - déco maison & décoration bois (Niger) #25",
+    "category": "Maison & décoration",
+    "country_code": "NE"
+  },
+  {
+    "id": "9b7bc4bb-c454-4855-9806-972d5ee3f052",
+    "name": "Marseille Design - éducatif livres & papeterie cuir (France) #26",
+    "category": "Livres & papeterie",
+    "country_code": "FR"
+  },
+  {
+    "id": "8c725eb1-bef0-431a-9262-ab63924a5be6",
+    "name": "Ziguinchor Mode - robuste sport & loisirs acier (Sénégal) #27",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "0a939a9d-0633-40ff-a5b2-2a91922d675d",
+    "name": "Abidjan Design - purifiant beauté & soins baobab (Côte d'Ivoire) #28",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "0df0e72b-5c7a-4f65-aaaf-c9e6464487f4",
+    "name": "Sokodé Déco - confortable vêtements & mode coton (Togo) #29",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "10f9db45-8bad-4dd0-bbcc-e9c386fc03d4",
+    "name": "Ganvié Artisanat - élégante vêtements & mode wax (Bénin) #30",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "d15cb4a9-9a3f-438c-8b27-f2b90e7fdb44",
+    "name": "Saint-Louis Création - moderne vêtements & mode lin (Sénégal) #31",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "82a27d34-3ff4-4f23-a52b-de33bbd4133a",
+    "name": "Ouidah Création - résistant chaussures & accessoires caoutchouc (Bénin) #32",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "ec610234-6207-4a8f-8c81-180efeaddee5",
+    "name": "Cape Coast Beauté - chaleureuse maison & décoration textile (Ghana) #33",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "e1a879fd-c096-4af8-8f10-c775c47f112f",
+    "name": "Cape Coast Beauté - rustique maison & décoration textile (Ghana) #34",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "059f43d3-291f-4a3b-a40a-ae29bac01df7",
+    "name": "Sèmè City - traditionnel bijoux & artisanat bois (Bénin) #35",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "920b7e24-5f7f-4526-9479-9e84808c541f",
+    "name": "Abuja Design - naturel beauté & soins hibiscus (Nigeria) #36",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "fc05410a-aba8-452f-8d41-dcc4fc586413",
+    "name": "Ziguinchor Mode - léger sport & loisirs néoprène (Sénégal) #37",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "4952a910-3a3d-46ee-8f55-57c06d94aae3",
+    "name": "Kaolack Beauté - confortable vêtements & mode wax (Sénégal) #38",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "df28bd93-a874-4fb7-b352-95339ce9929f",
+    "name": "Thiès Textile - traditionnelle vêtements & mode wax (Sénégal) #39",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "2a611493-1f91-43c1-9723-4bf9ba350ceb",
+    "name": "Ouahigouya Déco - tendance vêtements & mode soie (Burkina Faso) #40",
+    "category": "Vêtements & mode",
+    "country_code": "BF"
+  },
+  {
+    "id": "b2f2c394-4fe1-42e4-94fe-08c1dff3ca49",
+    "name": "Grand-Bassam Art - apaisant beauté & soins argan (Côte d'Ivoire) #41",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "a07a814a-4e6e-4449-b974-0fa4bdbf8cda",
+    "name": "Cotonou Mode - précieux bijoux & artisanat bronze (Bénin) #42",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "c78befd1-7cc2-41ce-a0b0-7566d9396f9d",
+    "name": "Lomé Style - unique bijoux & artisanat bronze (Togo) #43",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "b55cf38e-8f56-44f3-bfe6-41e61a02dde3",
+    "name": "Tamale Création - rustique maison & décoration céramique (Ghana) #44",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "866bdfed-6160-4519-b2e9-9d04740b35e0",
+    "name": "Porto-Novo Style - résistant chaussures & accessoires cuir (Bénin) #45",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "f1c7bb49-897a-4c14-9d32-0a025d02227c",
+    "name": "Ouidah Création - tissé chaussures & accessoires tricot (Bénin) #46",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "61ede764-b3da-4b20-b167-99fab16eb72e",
+    "name": "Port Harcourt Style - purifiant beauté & soins argan (Nigeria) #47",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "223a925f-e75c-4820-b349-53dba9be0d02",
+    "name": "Grand-Bassam Art - purifiant beauté & soins hibiscus (Côte d'Ivoire) #48",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "20c4702e-cc21-4907-8455-2c8fa4329ffa",
+    "name": "Cotonou Mode - précieux bijoux & artisanat perles (Bénin) #49",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "3905acc2-f11c-4e75-8241-ba5cfe327705",
+    "name": "Abidjan Design - intelligent électronique & gadgets aluminium (Côte d'Ivoire) #50",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "ee150fe2-afd2-4dc0-91fc-0d04f5488238",
+    "name": "Ibadan Mode - bio beauté & soins argan (Nigeria) #51",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "33da27cc-596b-47cc-9e52-a8e13f0f3822",
+    "name": "Atakpamé Mode - moderne vêtements & mode wax (Togo) #52",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "8ebd0d73-29a5-44ca-be42-d4d7879b2486",
+    "name": "Dakar Chic - élégante vêtements & mode soie (Sénégal) #53",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "a525c102-8e20-40ae-b964-7005051a87b3",
+    "name": "Grand-Bassam Art - compact électronique & gadgets silicone (Côte d'Ivoire) #54",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "bdfb84f1-e1a3-4f85-9847-82e3ab0437f2",
+    "name": "Sèmè City - moderne vêtements & mode denim (Bénin) #55",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "5f11f9f5-fc61-4325-9254-01ec36292483",
+    "name": "Lagos Fashion - purifiant beauté & soins aloe vera (Nigeria) #56",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "5da376eb-0789-4890-a29f-5386688591ae",
+    "name": "Accra Mode - rustique maison & décoration textile (Ghana) #57",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "c2dee959-1014-4a27-9a3d-24d5b0d18827",
+    "name": "San Pedro Beauté - résistant chaussures & accessoires tricot (Côte d'Ivoire) #58",
+    "category": "Chaussures & accessoires",
+    "country_code": "CI"
+  },
+  {
+    "id": "1183f5b9-96a5-4d69-959b-9a24da3b695a",
+    "name": "Cotonou Mode - tendance vêtements & mode denim (Bénin) #59",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "8e746b14-405a-45d8-9d57-5bae91214a36",
+    "name": "Porto-Novo Style - précieux bijoux & artisanat argent (Bénin) #60",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "45ed084b-82d3-40a7-a9c0-b665260251b1",
+    "name": "Bamako Mode - cuir chaussures & accessoires caoutchouc (Mali) #61",
+    "category": "Chaussures & accessoires",
+    "country_code": "ML"
+  },
+  {
+    "id": "a26572f1-18c3-4dd9-b22e-23427194beea",
+    "name": "Ganvié Artisanat - tissé chaussures & accessoires caoutchouc (Bénin) #62",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "2a677b97-cfd2-43b2-91f3-f190a687a3dc",
+    "name": "Abidjan Design - apaisant beauté & soins hibiscus (Côte d'Ivoire) #63",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "d173bfe1-cfba-49a6-bbc5-364edf385308",
+    "name": "Sokodé Déco - traditionnelle vêtements & mode coton (Togo) #64",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "49bd0529-ea87-4288-a881-ee1c9c4d9a08",
+    "name": "Tsévié Création - traditionnelle vêtements & mode wax (Togo) #65",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "33a51a2b-5a14-4111-b687-ab8ba11f1a84",
+    "name": "Porto-Novo Style - élégante vêtements & mode soie (Bénin) #66",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "b6f4f970-dd97-4c05-a146-f9b0607b1d68",
+    "name": "Abuja Design - naturel beauté & soins aloe vera (Nigeria) #67",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "022ee18d-afdb-45f0-ac64-c585ba844445",
+    "name": "Cotonou Mode - savoureux alimentation & épicerie fruits (Bénin) #68",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "25f23169-2542-4434-a677-b672d999df04",
+    "name": "Grand-Bassam Art - intelligent électronique & gadgets verre (Côte d'Ivoire) #69",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "8f332aed-5d6f-4d83-8683-957abb78478a",
+    "name": "Ouidah Création - traditionnel bijoux & artisanat argent (Bénin) #70",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "fd21250e-565f-4729-b5f3-2fe7eb481a6d",
+    "name": "Abidjan Design - portable électronique & gadgets silicone (Côte d'Ivoire) #71",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "798255e3-e79f-43f4-b50a-af00c38935aa",
+    "name": "Tsévié Création - traditionnel bijoux & artisanat argent (Togo) #72",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "d112c4fd-55c1-49a4-91d0-2e9687128404",
+    "name": "Thiès Textile - tendance vêtements & mode lin (Sénégal) #73",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "7ee0d9cd-c74b-4f87-b8bf-ee584eb7dfdf",
+    "name": "Grand-Bassam Art - apaisant beauté & soins aloe vera (Côte d'Ivoire) #74",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "12280383-d458-46cc-aebc-04b645ed784f",
+    "name": "Kpalimé Artisanat - moderne vêtements & mode denim (Togo) #75",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "a8376aba-6ab0-403b-85bf-c0608a6c46ec",
+    "name": "Yamoussoukro Déco - performant électronique & gadgets aluminium (Côte d'Ivoire) #76",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "0b7b3244-db2c-4588-ba1c-1dc0c74ad5ef",
+    "name": "Grand-Bassam Art - intelligent électronique & gadgets silicone (Côte d'Ivoire) #77",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "04d144c2-7084-4124-93e4-cbe37a0fa1bd",
+    "name": "Ouidah Création - épicé alimentation & épicerie fruits (Bénin) #78",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "5452e7fb-9814-4461-9039-d376febf8073",
+    "name": "Ouahigouya Déco - tendance vêtements & mode denim (Burkina Faso) #79",
+    "category": "Vêtements & mode",
+    "country_code": "BF"
+  },
+  {
+    "id": "04d759e5-f490-41aa-9031-3671b2864c1d",
+    "name": "Bouaké Mode - purifiant beauté & soins karité (Côte d'Ivoire) #80",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "181b89dd-0171-450d-baa5-f6b373703c13",
+    "name": "Sokodé Déco - traditionnel bijoux & artisanat bronze (Togo) #81",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "1ec7bd79-5977-485c-9bea-2b591e06d6cc",
+    "name": "Mopti Artisanat - tissé chaussures & accessoires caoutchouc (Mali) #82",
+    "category": "Chaussures & accessoires",
+    "country_code": "ML"
+  },
+  {
+    "id": "6720c1c9-4e6b-4394-bfb8-a28c5fa6cf50",
+    "name": "Kano Artisanat - purifiant beauté & soins karité (Nigeria) #83",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "10d73fec-7eb6-4525-9c45-039c411e49e4",
+    "name": "Ouidah Création - résistant chaussures & accessoires similicuir (Bénin) #84",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "f0299e07-4044-4629-b021-3d958ed6e871",
+    "name": "Grand-Bassam Art - portable électronique & gadgets silicone (Côte d'Ivoire) #85",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "dc42ab36-6aee-41d5-868c-f5367c5dee5c",
+    "name": "Bouaké Mode - portable électronique & gadgets plastique (Côte d'Ivoire) #86",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "34abea72-507c-4781-a261-97e2ec78ae65",
+    "name": "Ouidah Création - élégante vêtements & mode soie (Bénin) #87",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "e81b8ee7-9956-4d8d-a585-f10e1a731668",
+    "name": "San Pedro Beauté - bio beauté & soins baobab (Côte d'Ivoire) #88",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "3569705f-57e3-4a2e-ab80-3274c717752f",
+    "name": "San Pedro Beauté - sans fil électronique & gadgets métal (Côte d'Ivoire) #89",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "6b1f0395-a867-41a8-9708-2d6a37f98011",
+    "name": "Kpalimé Artisanat - moderne vêtements & mode wax (Togo) #90",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "fa36dc82-1172-4427-a861-6925a7e1d9fd",
+    "name": "Ouidah Création - confortable vêtements & mode denim (Bénin) #91",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "ff70c872-1ab7-4e61-af6b-acdc24d789b3",
+    "name": "Porto-Novo Style - local alimentation & épicerie fruits (Bénin) #92",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "4451bafd-e32e-4708-ac3c-7ca6011c5ee7",
+    "name": "Grand-Bassam Art - performant électronique & gadgets silicone (Côte d'Ivoire) #93",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "32ffbb06-1763-49aa-b863-fdad99f6b6eb",
+    "name": "Diffa Style - artisanale maison & décoration textile (Niger) #94",
+    "category": "Maison & décoration",
+    "country_code": "NE"
+  },
+  {
+    "id": "c9544b31-9099-422c-9901-2f6ab75ea42a",
+    "name": "Saint-Louis Création - résistant sport & loisirs nylon (Sénégal) #95",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "9bfa9482-b262-46dd-8b4f-c5d3d7fa28b6",
+    "name": "Ziguinchor Mode - confortable vêtements & mode soie (Sénégal) #96",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "41f506f6-38c5-41bb-a75e-3cca5ded10f1",
+    "name": "Tamale Création - rustique maison & décoration bois (Ghana) #97",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "8ee3f4a9-8454-452f-b56b-83dbe9388b1d",
+    "name": "Kumasi Art - moderne maison & décoration rotin (Ghana) #98",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "04d61af8-49fb-400e-b382-600f78269f3a",
+    "name": "Grand-Bassam Art - bio beauté & soins argan (Côte d'Ivoire) #99",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "1d865209-4881-4d54-bf29-413569bfbed5",
+    "name": "Kaolack Beauté - robuste sport & loisirs polyester (Sénégal) #100",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "088467c1-2cf6-4adb-892b-c08dccea6b9f",
+    "name": "Kaolack Beauté - résistant sport & loisirs nylon (Sénégal) #101",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "06c45282-0ffa-4790-9725-c5a752dc903b",
+    "name": "Ganvié Artisanat - cuir chaussures & accessoires similicuir (Bénin) #102",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "423c0723-9b94-4f12-9a78-35bf4f0df0dd",
+    "name": "Cotonou Mode - unique bijoux & artisanat perles (Bénin) #103",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "fb11e1d3-6740-4db4-9109-44a5c3baa7e4",
+    "name": "San Pedro Beauté - compact électronique & gadgets métal (Côte d'Ivoire) #104",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "ea4f7b1b-d09f-43c5-ad2d-846ac72a78fe",
+    "name": "Porto-Novo Style - traditionnelle vêtements & mode lin (Bénin) #105",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "7270744b-f14f-4d1f-b1f7-fdfbe1676ed6",
+    "name": "Thiès Textile - confortable vêtements & mode soie (Sénégal) #106",
+    "category": "Vêtements & mode",
+    "country_code": "SN"
+  },
+  {
+    "id": "37ebfb6b-8013-441e-9ef2-0e555bd2cfbb",
+    "name": "Sèmè City - traditionnel bijoux & artisanat bois (Bénin) #107",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "b26b7dc0-17de-4248-b060-e968cfe526c0",
+    "name": "San Pedro Beauté - naturel beauté & soins karité (Côte d'Ivoire) #108",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "3a54744a-2594-416a-832d-b197d7265fe6",
+    "name": "Ngaoundéré Style - artisanale maison & décoration céramique (Cameroun) #109",
+    "category": "Maison & décoration",
+    "country_code": "CM"
+  },
+  {
+    "id": "10e02384-648e-41e3-8061-fd1b6a89f4fb",
+    "name": "San Pedro Beauté - performant électronique & gadgets aluminium (Côte d'Ivoire) #110",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "693735f5-75ad-45a0-a8dd-374046924dba",
+    "name": "Porto-Novo Style - fait main bijoux & artisanat bronze (Bénin) #111",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "4e4be70d-5270-44aa-a1c6-8e1e03a25190",
+    "name": "Port Harcourt Style - naturel beauté & soins aloe vera (Nigeria) #112",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "1860e30a-079c-4d36-b8bb-1432d51e177e",
+    "name": "Bouaké Mode - sans fil électronique & gadgets plastique (Côte d'Ivoire) #113",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "b9dfc0cd-6071-422a-a24e-ca974e33e496",
+    "name": "Saint-Louis Création - dynamique sport & loisirs polyester (Sénégal) #114",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "56159321-610f-40fb-8a3c-a4c7c3906c49",
+    "name": "Cotonou Mode - authentique alimentation & épicerie fruits (Bénin) #115",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "415ba8ef-1363-42ad-9c97-971205ef152b",
+    "name": "Abuja Design - naturel beauté & soins karité (Nigeria) #116",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "2e378f2e-72fa-4510-a826-4607f4a16340",
+    "name": "Marseille Design - éducatif livres & papeterie cuir (France) #117",
+    "category": "Livres & papeterie",
+    "country_code": "FR"
+  },
+  {
+    "id": "370f3f66-9f45-476f-880b-4d95ec8b91be",
+    "name": "Porto-Novo Style - artisanal chaussures & accessoires similicuir (Bénin) #118",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "1b5fe86f-10d1-4756-bd20-82568ea344d9",
+    "name": "Kaolack Beauté - ergonomique sport & loisirs nylon (Sénégal) #119",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "4efba46a-1288-48df-b30a-e36042dedc19",
+    "name": "Saint-Louis Création - résistant sport & loisirs acier (Sénégal) #120",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "4201dd0c-cdbd-4aa8-8cf1-9749810edb72",
+    "name": "Sokodé Déco - moderne vêtements & mode denim (Togo) #121",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "8b92dc63-2028-4249-890c-91ccd62f0f50",
+    "name": "Ouidah Création - savoureux alimentation & épicerie épices (Bénin) #122",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "34419668-558c-407a-a8b9-0c6ed8deb40d",
+    "name": "Ouidah Création - tendance vêtements & mode denim (Bénin) #123",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "733c83c0-6242-484a-bbc8-2e93cde0c38f",
+    "name": "Abidjan Design - sans fil électronique & gadgets plastique (Côte d'Ivoire) #124",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "8ba297b4-6859-4b1f-92fb-35ab0ea9a2de",
+    "name": "Takoradi Design - déco maison & décoration textile (Ghana) #125",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "07bb31c9-e96e-443c-a1ba-dde7f2fe645f",
+    "name": "Sèmè City - unique bijoux & artisanat bronze (Bénin) #126",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "786219ba-cca4-4744-b92f-81a0aae217c6",
+    "name": "Abidjan Design - compact électronique & gadgets silicone (Côte d'Ivoire) #127",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "53efa888-9c4d-4e22-bf0d-55820a461e8d",
+    "name": "Yamoussoukro Déco - bio beauté & soins aloe vera (Côte d'Ivoire) #128",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "3f504926-33aa-4636-994d-651c58c74d20",
+    "name": "Porto-Novo Style - épicé alimentation & épicerie épices (Bénin) #129",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "98780822-2afe-4a97-9256-70016c9484d5",
+    "name": "Tombouctou Style - résistant chaussures & accessoires similicuir (Mali) #130",
+    "category": "Chaussures & accessoires",
+    "country_code": "ML"
+  },
+  {
+    "id": "4ed1869e-9bff-45a6-85e8-27fee3f17b54",
+    "name": "Ganvié Artisanat - épicé alimentation & épicerie produits locaux (Bénin) #131",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "2304083f-7160-42de-8e41-2c6f09e9ed77",
+    "name": "Yamoussoukro Déco - artisanal chaussures & accessoires tissu (Côte d'Ivoire) #132",
+    "category": "Chaussures & accessoires",
+    "country_code": "CI"
+  },
+  {
+    "id": "0b5cb87a-9416-4021-acbd-f9b42ad6869b",
+    "name": "Atakpamé Mode - précieux bijoux & artisanat or (Togo) #133",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "b2ed8f87-904e-4827-85f0-89a450f25749",
+    "name": "San Pedro Beauté - bio beauté & soins argan (Côte d'Ivoire) #134",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "c4ce2e08-6f7b-4dbe-b5d8-883cb0c81fac",
+    "name": "Bouaké Mode - performant électronique & gadgets silicone (Côte d'Ivoire) #135",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "ac08ffac-39a0-43cc-9dbe-9c504449c2d0",
+    "name": "Cotonou Mode - unique bijoux & artisanat bronze (Bénin) #136",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "762ce88f-81f7-4d62-8e3c-69272453c589",
+    "name": "Ibadan Mode - bio beauté & soins aloe vera (Nigeria) #137",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "08627faf-f263-496d-9492-bff859c256e2",
+    "name": "Accra Mode - moderne maison & décoration céramique (Ghana) #138",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "b9994f5d-89f6-4adc-8fe0-8622685be7b6",
+    "name": "Ouidah Création - tissé chaussures & accessoires similicuir (Bénin) #139",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "01215207-3aef-47c5-bcdb-6feafd4f5ae6",
+    "name": "Bouaké Mode - compact électronique & gadgets silicone (Côte d'Ivoire) #140",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "a51ee790-da8c-4aa2-966a-f50900d5b550",
+    "name": "Atakpamé Mode - tendance vêtements & mode wax (Togo) #141",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "3284fa58-5461-4328-ad5f-b2a465b08514",
+    "name": "Takoradi Design - chaleureuse maison & décoration céramique (Ghana) #142",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "efb20f1e-2f2f-4954-8706-5d26c0e6c8dc",
+    "name": "Lomé Style - fait main bijoux & artisanat perles (Togo) #143",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "caf5cb59-2367-4313-a62b-6da79a3ef6c1",
+    "name": "Dakar Chic - informatif livres & papeterie papier (Sénégal) #144",
+    "category": "Livres & papeterie",
+    "country_code": "SN"
+  },
+  {
+    "id": "36be9d3a-bb12-497a-ac32-358b074da4bd",
+    "name": "Thiès Textile - résistant sport & loisirs néoprène (Sénégal) #145",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "6a1229d0-921b-429f-a32e-689feef202a5",
+    "name": "Porto-Novo Style - épicé alimentation & épicerie produits locaux (Bénin) #146",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "98d2db7a-dc1b-4be7-afb4-c35b707e9ff9",
+    "name": "Cotonou Mode - fait main bijoux & artisanat or (Bénin) #147",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "d0df7350-81cd-46f5-9a44-496dc8965ac9",
+    "name": "Cotonou Mode - fait main bijoux & artisanat bois (Bénin) #148",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "8b2e244b-be5a-426f-8572-3626472efbfb",
+    "name": "Sokodé Déco - tendance vêtements & mode lin (Togo) #149",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "9bf02590-9847-48f3-848a-8fcf78592b22",
+    "name": "Ouidah Création - fait main bijoux & artisanat argent (Bénin) #150",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "9aa7b9ea-5674-4a03-9f6e-c93659a5f5b8",
+    "name": "Ganvié Artisanat - traditionnelle vêtements & mode coton (Bénin) #151",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "ccabf04f-2ab3-4cb4-9eab-a4a048f0ddc5",
+    "name": "Ziguinchor Mode - ergonomique sport & loisirs néoprène (Sénégal) #152",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "96936cd5-1b09-44ff-8d85-f0cd3ef79089",
+    "name": "Abidjan Design - sans fil électronique & gadgets aluminium (Côte d'Ivoire) #153",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "9fc1d949-959c-41eb-a655-c870e9881d1b",
+    "name": "Abuja Design - performant électronique & gadgets aluminium (Nigeria) #154",
+    "category": "Électronique & gadgets",
+    "country_code": "NG"
+  },
+  {
+    "id": "46b9df3f-2f2c-4dbb-8e54-d911ba970815",
+    "name": "Sokodé Déco - fait main bijoux & artisanat argent (Togo) #155",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "9dcffe59-e022-4fa3-88e3-3a881003141b",
+    "name": "Cotonou Mode - traditionnelle vêtements & mode lin (Bénin) #156",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "0e071542-0179-44ea-8959-49f402c5f79b",
+    "name": "Garoua Déco - rustique maison & décoration métal (Cameroun) #157",
+    "category": "Maison & décoration",
+    "country_code": "CM"
+  },
+  {
+    "id": "c2e5f5cf-a367-49d4-bbae-ad99334050cf",
+    "name": "Grand-Bassam Art - performant électronique & gadgets plastique (Côte d'Ivoire) #158",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "a64bb232-fe78-49c3-bc96-fbef37be0767",
+    "name": "Ganvié Artisanat - artisanal chaussures & accessoires tissu (Bénin) #159",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "d3029ffc-ef7e-4ed3-af8e-dc52602666ab",
+    "name": "Porto-Novo Style - cuir chaussures & accessoires similicuir (Bénin) #160",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "43b405c9-451c-4617-8e5d-c13594bb74ef",
+    "name": "Kaolack Beauté - dynamique sport & loisirs acier (Sénégal) #161",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "dc06b187-6b8e-40d1-b535-70dcbd3ce745",
+    "name": "Ziguinchor Mode - robuste sport & loisirs nylon (Sénégal) #162",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "1a38583f-b86d-42bb-bb3a-5e465eb3aed1",
+    "name": "Grand-Bassam Art - compact électronique & gadgets plastique (Côte d'Ivoire) #163",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "b9973e8d-9672-4d2b-a88b-bbbbfe82928e",
+    "name": "Yamoussoukro Déco - portable électronique & gadgets plastique (Côte d'Ivoire) #164",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "c3869be5-a26c-4a31-853f-755d91d60dae",
+    "name": "Tenkodogo Style - moderne vêtements & mode coton (Burkina Faso) #165",
+    "category": "Vêtements & mode",
+    "country_code": "BF"
+  },
+  {
+    "id": "a27dd050-a207-4be7-a75f-43ec59945fe4",
+    "name": "Port Harcourt Style - apaisant beauté & soins baobab (Nigeria) #166",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "331bab75-b9d2-4a9f-a983-f05734c0b7d8",
+    "name": "Lyon Mode - éducatif livres & papeterie cuir (France) #167",
+    "category": "Livres & papeterie",
+    "country_code": "FR"
+  },
+  {
+    "id": "988e5292-5599-484f-90d2-5ff12dd22dfa",
+    "name": "Sokodé Déco - original bijoux & artisanat or (Togo) #168",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "eadee9dc-4711-49b3-833e-993735402fd6",
+    "name": "Porto-Novo Style - précieux bijoux & artisanat bronze (Bénin) #169",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "dc607395-0054-41a6-9c0a-2e084e03dee3",
+    "name": "Ouidah Création - traditionnel bijoux & artisanat perles (Bénin) #170",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "f332de25-a0b6-468a-8dea-b82329a4c7be",
+    "name": "Port Harcourt Style - sans fil électronique & gadgets métal (Nigeria) #171",
+    "category": "Électronique & gadgets",
+    "country_code": "NG"
+  },
+  {
+    "id": "15fe9e7a-e5d2-4885-961d-7bc640aab1a9",
+    "name": "Garoua Déco - artisanale maison & décoration céramique (Cameroun) #172",
+    "category": "Maison & décoration",
+    "country_code": "CM"
+  },
+  {
+    "id": "61d7a8c9-0214-45e1-848e-29e3b512aca6",
+    "name": "Ganvié Artisanat - traditionnel bijoux & artisanat argent (Bénin) #173",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "7d697c65-e2ac-44f6-b8b0-4320b9924410",
+    "name": "Ouidah Création - confortable chaussures & accessoires tricot (Bénin) #174",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "91f11a0b-5029-4182-ad70-c734c50c1189",
+    "name": "Sèmè City - local alimentation & épicerie produits locaux (Bénin) #175",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "cf9ee4d6-477f-4801-b200-7500f11767f8",
+    "name": "Tamale Création - chaleureuse maison & décoration céramique (Ghana) #176",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "ef035ea6-d396-4661-9bf3-949972aeea43",
+    "name": "Sèmè City - cuir chaussures & accessoires similicuir (Bénin) #177",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "fbaf3feb-daf0-4a20-9c10-230f45440143",
+    "name": "Cotonou Mode - artisanal chaussures & accessoires tricot (Bénin) #178",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "43fafe82-dafe-45cc-8a2c-bcfc79fee0d3",
+    "name": "Ouidah Création - local alimentation & épicerie légumes (Bénin) #179",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "6f9560fa-9dbf-4522-9986-57cfe79641d6",
+    "name": "Bouaké Mode - artisanal chaussures & accessoires cuir (Côte d'Ivoire) #180",
+    "category": "Chaussures & accessoires",
+    "country_code": "CI"
+  },
+  {
+    "id": "1969aa47-0211-42ba-9b9d-a84a6f396832",
+    "name": "Ziguinchor Mode - léger sport & loisirs acier (Sénégal) #181",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "92d8efed-ce6f-4b85-a3fd-e3794cf768c9",
+    "name": "Yamoussoukro Déco - sans fil électronique & gadgets verre (Côte d'Ivoire) #182",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "c93ea939-5358-4777-8dda-7c5a6809902d",
+    "name": "Kaolack Beauté - robuste sport & loisirs polyester (Sénégal) #183",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "279e270e-5f24-40ea-80fc-7f96a656f979",
+    "name": "Abuja Design - intelligent électronique & gadgets plastique (Nigeria) #184",
+    "category": "Électronique & gadgets",
+    "country_code": "NG"
+  },
+  {
+    "id": "69f6f776-a155-4684-b4a1-197ecdb344ec",
+    "name": "Kpalimé Artisanat - fait main bijoux & artisanat perles (Togo) #185",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "0980e953-b550-48b9-8c5b-850f06cddca3",
+    "name": "Saint-Louis Création - dynamique sport & loisirs caoutchouc (Sénégal) #186",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "cb23144a-9bfb-495d-8b9b-a96962f24ed2",
+    "name": "Accra Mode - rustique maison & décoration bois (Ghana) #187",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "1c17906c-2cb1-414a-8043-d9d7a8065e7f",
+    "name": "Ouidah Création - artisanal chaussures & accessoires tricot (Bénin) #188",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "3d0e070d-196d-466d-8b2c-5e2a9ecce54e",
+    "name": "Kaolack Beauté - dynamique sport & loisirs caoutchouc (Sénégal) #189",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "384ec995-ceff-446e-bd9a-0b4af7e3df1e",
+    "name": "Cotonou Mode - confortable chaussures & accessoires similicuir (Bénin) #190",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "15116f4e-c611-464d-95d2-c9205a4d370f",
+    "name": "Lomé Style - précieux bijoux & artisanat or (Togo) #191",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "0ee843bb-4253-417c-99e4-524ce3a04692",
+    "name": "Sèmè City - savoureux alimentation & épicerie produits locaux (Bénin) #192",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "2edae030-5984-4f09-b14a-144e98d62780",
+    "name": "Abidjan Design - portable électronique & gadgets aluminium (Côte d'Ivoire) #193",
+    "category": "Électronique & gadgets",
+    "country_code": "CI"
+  },
+  {
+    "id": "013cb641-77c4-4165-a076-8e402a8d728e",
+    "name": "Abidjan Design - hydratant beauté & soins argan (Côte d'Ivoire) #194",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "3bb7ba52-22ab-4c2a-a871-b548d2c227e9",
+    "name": "Ouidah Création - tissé chaussures & accessoires similicuir (Bénin) #195",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "9f713dcd-c18e-43c6-a233-cedbe1580e7e",
+    "name": "Cape Coast Beauté - chaleureuse maison & décoration bois (Ghana) #196",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "e0d34e5b-b2ee-4cc3-b07a-380194250d8b",
+    "name": "Porto-Novo Style - rustique maison & décoration métal (Bénin) #197",
+    "category": "Maison & décoration",
+    "country_code": "BJ"
+  },
+  {
+    "id": "ac829217-2e03-4f14-8cc4-e2b010936677",
+    "name": "Port Harcourt Style - apaisant beauté & soins baobab (Nigeria) #198",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "1ea930ae-1eb2-4032-bd4d-a553a02096b6",
+    "name": "Accra Mode - artisanale maison & décoration textile (Ghana) #199",
+    "category": "Maison & décoration",
+    "country_code": "GH"
+  },
+  {
+    "id": "77f62b79-6669-403b-b0b1-576f3a4f15cc",
+    "name": "Atakpamé Mode - unique bijoux & artisanat argent (Togo) #200",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "7af8472c-513a-43eb-94a2-ea13e19e8476",
+    "name": "Lomé Style - tendance vêtements & mode coton (Togo) #201",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "f022b2c3-6e9f-48cc-84dc-638cfe698d20",
+    "name": "Abuja Design - purifiant beauté & soins baobab (Nigeria) #202",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "f141fb8b-3ae5-46f2-929e-8beef602809c",
+    "name": "Saint-Louis Création - robuste sport & loisirs nylon (Sénégal) #203",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "532ca514-fd12-4dc5-9717-a1c076b1685f",
+    "name": "Marseille Design - pratique livres & papeterie carton (France) #204",
+    "category": "Livres & papeterie",
+    "country_code": "FR"
+  },
+  {
+    "id": "c48e23ac-a92c-41a8-8b75-00ca082c54f9",
+    "name": "Kaolack Beauté - dynamique sport & loisirs acier (Sénégal) #205",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "990a0e5e-6b27-40f9-9c99-f377969c72cc",
+    "name": "Grand-Bassam Art - apaisant beauté & soins aloe vera (Côte d'Ivoire) #206",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "bc9cc092-e55a-4657-b8c1-3ff967f5482e",
+    "name": "Lomé Style - élégante vêtements & mode coton (Togo) #207",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "1722c911-b79e-4017-9c6f-bf54f729f780",
+    "name": "Porto-Novo Style - local alimentation & épicerie épices (Bénin) #208",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "259e185c-d656-4100-83f5-dad4fcf3bb7d",
+    "name": "Ganvié Artisanat - résistant chaussures & accessoires similicuir (Bénin) #209",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "d8229568-c199-48ef-9394-a1f3a1764693",
+    "name": "Thiès Textile - artisanal chaussures & accessoires tricot (Sénégal) #210",
+    "category": "Chaussures & accessoires",
+    "country_code": "SN"
+  },
+  {
+    "id": "bd699313-a1ca-4e77-93a5-def324cd5bab",
+    "name": "Kaolack Beauté - léger sport & loisirs acier (Sénégal) #211",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "e4fee772-8cb3-4480-958c-566666054d08",
+    "name": "Ouidah Création - fait main bijoux & artisanat argent (Bénin) #212",
+    "category": "Bijoux & artisanat",
+    "country_code": "BJ"
+  },
+  {
+    "id": "b3ef4709-61f7-4f22-8a34-04a69a03ad86",
+    "name": "Abidjan Design - apaisant beauté & soins aloe vera (Côte d'Ivoire) #213",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "2499f5f7-3cb5-4f28-9c32-9c7ec6828a3a",
+    "name": "Sokodé Déco - élégante vêtements & mode lin (Togo) #214",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "8090bcb0-3432-4504-8c91-657bea8e4812",
+    "name": "Lomé Style - traditionnelle vêtements & mode lin (Togo) #215",
+    "category": "Vêtements & mode",
+    "country_code": "TG"
+  },
+  {
+    "id": "378eca63-0230-484b-8ff5-cf0a673aee56",
+    "name": "Porto-Novo Style - confortable vêtements & mode lin (Bénin) #216",
+    "category": "Vêtements & mode",
+    "country_code": "BJ"
+  },
+  {
+    "id": "01596382-a6dc-4494-8dcc-b1aec8ce7482",
+    "name": "Lyon Mode - inspirant livres & papeterie bambou (France) #217",
+    "category": "Livres & papeterie",
+    "country_code": "FR"
+  },
+  {
+    "id": "6af578f3-7386-4dff-9fc4-f8779e9384ce",
+    "name": "Port Harcourt Style - naturel beauté & soins karité (Nigeria) #218",
+    "category": "Beauté & soins",
+    "country_code": "NG"
+  },
+  {
+    "id": "8bcd6c8d-b704-4e9c-b0c8-4d61d7c9460e",
+    "name": "Ouidah Création - authentique alimentation & épicerie produits locaux (Bénin) #219",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "1afc7b33-b3ee-4ee6-8e86-9cd356bbc90b",
+    "name": "Bordeaux Beauté - informatif livres & papeterie cuir (France) #220",
+    "category": "Livres & papeterie",
+    "country_code": "FR"
+  },
+  {
+    "id": "e06f7a62-ec54-42a8-b936-e11844e910b3",
+    "name": "Cotonou Mode - confortable chaussures & accessoires tricot (Bénin) #221",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "bb89f208-c006-477b-8fd2-b9e59b72a37b",
+    "name": "Ouidah Création - tissé chaussures & accessoires tissu (Bénin) #222",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "f8ec2f9c-a01b-40de-95a5-4b24bd530c49",
+    "name": "Sèmè City - local alimentation & épicerie légumes (Bénin) #223",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "04ffd992-c5ca-4262-a200-76816ea83a09",
+    "name": "Tsévié Création - unique bijoux & artisanat perles (Togo) #224",
+    "category": "Bijoux & artisanat",
+    "country_code": "TG"
+  },
+  {
+    "id": "969fff9d-5d8b-4106-9821-ae71ff5ad340",
+    "name": "Porto-Novo Style - savoureux alimentation & épicerie céréales (Bénin) #225",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  },
+  {
+    "id": "7d243eba-3b71-4235-9d9f-15318357ecde",
+    "name": "Cotonou Mode - tissé chaussures & accessoires tissu (Bénin) #226",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "78a6d17e-96c8-4ee1-b37d-f80e0c9fe5f4",
+    "name": "Saint-Louis Création - robuste sport & loisirs polyester (Sénégal) #227",
+    "category": "Sport & loisirs",
+    "country_code": "SN"
+  },
+  {
+    "id": "04e96f41-bfc9-4f19-b4fe-dd4bc6a7ea48",
+    "name": "Porto-Novo Style - artisanal chaussures & accessoires caoutchouc (Bénin) #228",
+    "category": "Chaussures & accessoires",
+    "country_code": "BJ"
+  },
+  {
+    "id": "0a4c81be-1459-4f98-9d3b-9c61d292b98d",
+    "name": "Grand-Bassam Art - bio beauté & soins aloe vera (Côte d'Ivoire) #229",
+    "category": "Beauté & soins",
+    "country_code": "CI"
+  },
+  {
+    "id": "35195c15-04cf-488c-bc86-bc2efc321d09",
+    "name": "Cotonou Mode - savoureux alimentation & épicerie épices (Bénin) #230",
+    "category": "Alimentation & épicerie",
+    "country_code": "BJ"
+  }
+]
